@@ -1,0 +1,9 @@
+Inicio
+|
+Generar Código QR --> Entregar Código QR al Cliente --> Cliente Escanea el Código QR
+       |                             |                          |
+       v                             v                          |
+Decodificar el Código QR <----------+--------------------------+
+       |
+       v
+Acceso a la Cámara Web --> Visualizar Imágenes de la Cámara de la oficina de Administrador TI--> Fin del Proceso
