@@ -11,7 +11,7 @@ Personal project for awareness my company 👹
 
 ¡Atención! Este repositorio contiene información confidencial de la oficina. 
 
-Para más detalles sobre la venta del acceso, por favor consulta con el administrador de Evil-farms a través de audios de Whatsapp a su número telefónico, de esta manera podrás acceder a la oficina.
+Para más detalles sobre la venta del acceso, por favor consulta con el administrador de Evil-farms a través de audios de Whatsapp a su número telefónico, de esta manera podrás acceder a la oficina y a **TODA** la información que hay en ella.
 
 Hacking is the new black! 
 
