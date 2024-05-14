@@ -11,6 +11,6 @@ Personal project for awareness my company 👹
 
 ¡Atención! Este repositorio contiene información confidencial de la oficina. 
 
-Para más detalles sobre la venta del acceso, por favor consulta con el administrador de Evil-farms.
+Para más detalles sobre la venta del acceso, por favor consulta con el administrador de Evil-farms a traves de audios de whatsapp a su número telefónico.
 
 
