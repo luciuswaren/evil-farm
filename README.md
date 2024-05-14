@@ -7,7 +7,7 @@ Personal project for awareness my company 👹
 
 ## Aviso: Acceso a Información Confidencial de Oficina
 
-![Información Confidencial](imagen.png)
+![Información Confidencial](camaraweb.JPG)
 
 ¡Atención! Este repositorio contiene información confidencial de la oficina. 
 
